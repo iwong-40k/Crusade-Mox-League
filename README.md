@@ -1,4 +1,3 @@
-
 <div class="battlescribe">
 
 # The Mahayana Crusade [54 PL, 1,000pts, 11 Crusade Points]
@@ -425,6 +424,16 @@
 
             </tr>
 
+            <tr>
+
+            <td class="profile-name">Battle Trait: Heroic Consitution</td>
+
+            <td>Add 1 to the wounds characteristic of this model</td>
+
+            <td></td>
+
+            </tr>
+
             </tbody>
 
             </table>
@@ -473,7 +482,7 @@
 
             <td>4</td>
 
-            <td>5</td>
+            <td>6</td>
 
             <td>5</td>
 
